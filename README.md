@@ -44,12 +44,11 @@ When I'm not architecting gaming platforms or leading development at Webspool, y
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niti8h&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niti8h&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
-*(Make sure to replace `YOUR_GITHUB_USERNAME` in the image links above with your actual GitHub handle!)*
-
+ 
 ---
 
 ### 🛠️ Recent Highlights
@@ -64,6 +63,9 @@ When I'm not architecting gaming platforms or leading development at Webspool, y
 Are you looking to build a next-generation iGaming platform, need complex aggregator integrations, or want to discuss full-stack architecture? Let's talk.
 
 <p align="left">
-  <a href="mailto:YOUR_EMAIL@EXAMPLE.COM"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <!-- <a href="mailto:nitishnain07"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> -->
+    <a href="https://t.me/naveennain"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram (Fast Replies)" /></a>
+    <a href="https://t.me/niti8h"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram (Backup Account)" /></a>
+
+  <!-- <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
 </p>
