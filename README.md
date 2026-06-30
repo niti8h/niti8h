@@ -64,8 +64,8 @@ Are you looking to build a next-generation iGaming platform, need complex aggreg
 
 <p align="left">
   <!-- <a href="mailto:nitishnain07"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> -->
-    <a href="https://t.me/naveennain"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram (Fast Replies)" /></a>
-    <a href="https://t.me/niti8h"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram (Backup Account)" /></a>
+<a href="https://t.me/naveennain"><img src="https://img.shields.io/badge/Fast_Replies-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram (Fast Replies)" /></a>
+<a href="https://t.me/niti8h"><img src="https://img.shields.io/badge/Backup_Account-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram (Backup Account)" /></a>
 
   <!-- <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
 </p>
