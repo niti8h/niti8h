@@ -8,7 +8,7 @@
 
 I am a technical lead and Full Stack Developer transitioning deep into the **iGaming industry**. I specialize in building, integrating, and scaling robust iGaming platforms. From seamless aggregator integrations to deploying fully white-labeled casino and sportsbook solutions, I bridge the gap between high-performance code and engaging user experiences. 
 
-When I'm not architecting gaming platforms or leading development at Webspool, you can usually find me analyzing mobile security or fueled by my morning cold coffee, building out new features.
+When I'm not architecting gaming platforms or leading development at `Hehe `, you can usually find me analyzing mobile security or fueled by my morning cold coffee, building out new features.
 
 ---
 
